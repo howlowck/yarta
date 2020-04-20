@@ -1,0 +1,19 @@
+{
+  "name": "yarta",
+  "version": "1.0.0",
+  "description": "Yet Another Redux-Typescript Approach",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "redux": "^4"
+  },
+  "devDependencies": {
+    "redux": "^4.0.5",
+    "typescript": "^3.8.3"
+  }
+}
