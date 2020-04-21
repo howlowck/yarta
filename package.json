@@ -1,6 +1,6 @@
 {
   "name": "yarta",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Yet Another Redux-Typescript Approach",
   "main": "dist/index.js",
   "scripts": {
